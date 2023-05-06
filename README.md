@@ -93,19 +93,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **John Adibe**
-
-- GitHub: [@Johnadibe](https://github.com/Johnadibe)
-- Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
-- LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe/)
-
-👤**Chukwuemeka Ochuba**
-
-- GitHub: [@Donmark2k](https://github.com/Donmark2k)
-- Twitter: [@Donmark2k](https://twitter.com/donmark2k)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-ochuba/)
-
 👤**Shakir Hussain**
 
 - GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
